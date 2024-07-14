@@ -13,3 +13,5 @@
 - Contacto: hi@flarex.cloud / support@flarex.cloud / partnerships@flarex.cloud
 - Discord: https://discord.flarex.cloud
 - WhatsApp: https://whatsapp.flarex.cloud
+
+> API exclusiva para hostings
