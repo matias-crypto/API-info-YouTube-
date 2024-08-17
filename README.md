@@ -44,6 +44,17 @@ npm start
 pkg install openssl
 ```
 
+*EJECUTAR SERVEO:*
+
+```bash
+ssh -R api-crypto.serveo.net:80:localhost:6666 serveo.net
+```
+
+> NOTA: Tienes que poner el puerto que pusiste en index.js (El que usamos es 6666), si no cambiaste nada sigues los pasos como están, y puedes cambiar el nombre del subdominio, por defecto se llama api-crypto, y recuerda, no tienes que cerrar Termux porque se apagará la página, por eso es preferible usar hostings 24/7.
+
+
+
+
 
 
 
