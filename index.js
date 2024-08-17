@@ -29,6 +29,7 @@ async function searchYouTube(query) {
     }
 }
 
+
 app.get('/', (req, res) => {
     res.send('API creada por https://www.github.com/matias-crypto');
 });
