@@ -8,4 +8,5 @@
 
 ``bash
 git clone
+bash
 ``
