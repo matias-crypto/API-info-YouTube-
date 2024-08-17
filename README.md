@@ -6,12 +6,6 @@
 
 ### `ACTIVAR EN FLAREXCLOUD`
 
-<a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
-- Pagina Web: https://www.flarex.cloud
-- Área de Pagos: https://billing.flarex.cloud?ref=uCz5mfR3bp
-- Game Panel: https://gamepanel.flarex.cloud
-- Contacto: hi@flarex.cloud / support@flarex.cloud / partnerships@flarex.cloud
-- Discord: https://discord.flarex.cloud
-- WhatsApp: https://whatsapp.flarex.cloud
-
-> API exclusiva para hostings
+``javascript
+git clone
+``
