@@ -6,6 +6,6 @@
 
 ### `ACTIVAR EN LOCAL`
 
-``bash
+```bash
 h
-``
+```
