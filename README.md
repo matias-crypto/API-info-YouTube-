@@ -6,6 +6,6 @@
 
 ### `ACTIVAR EN FLAREXCLOUD`
 
-``javascript
+``bash
 git clone
 ``
