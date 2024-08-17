@@ -1,4 +1,4 @@
-<a href="https://github.com/matias-crypto"><img src="https://telegra.ph/file/79b4b4c78279caf927fd7.jpg" width="300" height="300" alt="matias-crypto"/></a>
+<a href="https://github.com/matias-crypto"><img src="https://telegra.ph/file/79b4b4c78279caf927fd7.jpg" width="350" height="300" alt="matias-crypto"/></a>
 
 
 ## `API-FREE`
