@@ -6,6 +6,7 @@
 
 ### `ACTIVAR EN LOCAL`
 
+> Instalación de forma local
 
 *CLONAR GITHUB:* 
 
