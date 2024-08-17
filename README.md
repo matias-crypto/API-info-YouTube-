@@ -6,6 +6,6 @@
 
 ### `ACTIVAR EN LOCAL`
 
-``js
+``bash
 h
 ``
