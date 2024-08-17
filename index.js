@@ -3,7 +3,7 @@ require('dotenv').config();
 const express = require('express');
 const ytSearch = require('yt-search');
 const app = express();
-const port = process.env.PORT || 2070; 
+const port = process.env.PORT || 6666; 
 
 async function searchYouTube(query) {
     try {
