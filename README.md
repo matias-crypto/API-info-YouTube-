@@ -26,3 +26,7 @@ npm install
 npm start
 ```
 
+> Cuando se inicie la API, se estará ejecutando en http://localhost:6666 o en el puerto que pusieron
+
+
+
