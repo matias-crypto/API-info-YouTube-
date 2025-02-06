@@ -27,7 +27,7 @@ git clone https://github.com/matias-crypto/API-info-YouTube-
 ```bash
 npm install
 ```
-> NOTA: Si por alguna razón no te funciona npm, usa yarn install en este paso y/o yarn start en el siguiente paso.
+> NOTA: Si por alguna razón no te funciona npm, usa yarn install en este paso y yarn start en el siguiente paso.
 
 *INICIAR API:*
 
