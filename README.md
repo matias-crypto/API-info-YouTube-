@@ -4,7 +4,7 @@
 ## `API-FREE`
 
 
-> Esta API es para buscar información sobre videos de YouTube con nombre, y está en desarrollo, puedes instalarla en hostings o en forma local.
+> Esta API es para buscar información sobre videos de YouTube con nombre, incluye un rate limit para que no abusen con muchas solicitudes, ten en cuenta que esta API es muy básica y esta en fase beta, puedes instalarla en hostings o de forma local.
 
 
 ### `ACTIVAR EN LOCAL CON TERMUX`
